@@ -1,0 +1,7 @@
+{
+  "name": "Presidency Academy Portal",
+  "description": "A hyper-modern, aesthetic educational portal for Presidency Academy Senior Secondary School featuring 3D interactions, glassmorphism, and AI-powered assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
